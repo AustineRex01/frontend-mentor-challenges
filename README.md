@@ -35,7 +35,7 @@ A blog preview card built as part of the Frontend Mentor challenges.
 | Resource | Link |
 |---|---|
 | Live Demo | [View Project](https://austinerex01.github.io/frontend-mentor-challenges/Blog%20preview%20card/) |
-| Source Code | [View Code](https://github.com/AustineRex01/frontend-mentor-challenges/tree/main/blog-preview-card) |
+| Source Code | [View Code](https://github.com/AustineRex01/frontend-mentor-challenges/tree/main/Blog%20preview%20card) |
 | Challenge | [Frontend Mentor](YOUR-CHALLENGE-LINK) |
 
 ## About This Repository
