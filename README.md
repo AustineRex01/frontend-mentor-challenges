@@ -25,6 +25,19 @@ A simple QR code component built as part of the Frontend Mentor Newbie challenge
 
 ---
 
+### 02. Blog Preview Card
+
+A blog preview card built as part of the Frontend Mentor challenges.
+
+- **Technologies:** HTML5, CSS3
+- **Challenge:** Blog Preview Card
+
+| Resource | Link |
+|---|---|
+| Live Demo | [View Project](https://austinerex01.github.io/frontend-mentor-challenges/blog-preview-card/) |
+| Source Code | [View Code](https://github.com/AustineRex01/frontend-mentor-challenges/tree/main/blog-preview-card) |
+| Challenge | [Frontend Mentor](YOUR-CHALLENGE-LINK) |
+
 ## About This Repository
 
 This repository documents my learning journey as I develop my frontend development skills through consistent practice and hands-on projects.
