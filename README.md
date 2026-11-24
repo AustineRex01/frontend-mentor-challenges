@@ -36,7 +36,17 @@ A blog preview card built as part of the Frontend Mentor challenges.
 |---|---|
 | Live Demo | [View Project](https://austinerex01.github.io/frontend-mentor-challenges/Blog%20preview%20card/) |
 | Source Code | [View Code](https://github.com/AustineRex01/frontend-mentor-challenges/tree/main/Blog%20preview%20card) |
-| Challenge | [Frontend Mentor](YOUR-CHALLENGE-LINK) |
+
+### 03. Social Links Profile
+
+A responsive social links profile built as part of the Frontend Mentor challenges.
+
+- **Technologies:** HTML5, CSS3
+
+| Resource | Link |
+|---|---|
+| Live Demo | [View Project](https://austinerex01.github.io/frontend-mentor-challenges/social-links-profile/) |
+| Source Code | [View Code](https://github.com/AustineRex01/frontend-mentor-challenges/tree/main/social-links-profile) |
 
 ## About This Repository
 
