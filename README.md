@@ -48,6 +48,39 @@ A responsive social links profile built as part of the Frontend Mentor challenge
 | Live Demo | [View Project](https://austinerex01.github.io/frontend-mentor-challenges/social-links-profile/) |
 | Source Code | [View Code](https://github.com/AustineRex01/frontend-mentor-challenges/tree/main/social-links-profile) |
 
+### 04. Recipe Page
+
+A responsive recipe page built as part of my frontend development learning journey.
+
+## Overview
+
+This project involved building a recipe page for a simple omelette recipe using HTML and CSS. The goal was to recreate the provided design while practising HTML structure, semantic elements, and CSS styling.
+
+## Built With
+
+- HTML5
+- CSS3
+
+## What I Learned
+
+- Structuring webpages with semantic HTML elements.
+- Using headings, lists, and tables to organise content.
+- Styling webpages with CSS.
+- Working with spacing, typography, colours, and borders.
+- Applying CSS media queries to make a webpage responsive.
+
+## Project Features
+
+- Clean and simple recipe layout.
+- Structured recipe information.
+- Nutrition information displayed in a table.
+- Responsive layout for different screen sizes.
+
+## Links
+
+- Live Demo: [View Project](https://austinerex01.github.io/frontend-mentor-challenges/recipe%20page/)
+- Source Code: [GitHub Repository](https://github.com/AustineRex01/frontend-mentor-challenges/tree/main/recipe%20page)
+
 ## About This Repository
 
 This repository documents my learning journey as I develop my frontend development skills through consistent practice and hands-on projects.
